@@ -1,0 +1,9 @@
+Package: com.fortysixandtwo.articon
+Name: Articon
+Depends: mobilesubstrate
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Show now playing artwork on media icons!
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
